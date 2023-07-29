@@ -15,8 +15,4 @@
 * VR demos for showing to customers in showrooms and company's office:
   * VR shooting range with full body tracking: [video]().
     The project was made using an open source framework, [UltimateXR](https://www.ultimatexr.io/).
-  * Multiuser VR app with full body tracking and object tracking: 
-
-https://github.com/aleksanderderkanosov/Portfolio/assets/69207595/d2f80929-3973-40f3-820c-efd963b61acc
-
-Networking was made by [Photon Engine](https://www.photonengine.com/#).
+  * Multiuser VR demo with full body tracking and object tracking: [video](https://youtu.be/TG9PK3B7lr8). Networking was made using [Photon Engine](https://www.photonengine.com/#).
