@@ -13,6 +13,6 @@
 * Virtual production on Unreal: [video](https://youtu.be/m6J0Qj9B92g). 
 
 * VR demos for showing to customers in showrooms and company's office:
-  * VR shooting range with full body tracking: [video]().
+  * VR shooting range with full body tracking: [video](https://youtu.be/9Ci9r9ieUP4).
     The project was made using an open source framework, [UltimateXR](https://www.ultimatexr.io/).
   * Multiuser VR demo with full body tracking and object tracking: [video](https://youtu.be/TG9PK3B7lr8). Networking was made using [Photon Engine](https://www.photonengine.com/#).
